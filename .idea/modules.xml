@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../../../Automation Testing Revision/2nd June_Credkart_PARAMS/.idea/2nd June_Credkart_PARAMS.iml" filepath="$PROJECT_DIR$/../../../Automation Testing Revision/2nd June_Credkart_PARAMS/.idea/2nd June_Credkart_PARAMS.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Poonam's 1st Pytest Project.iml" filepath="$PROJECT_DIR$/.idea/Poonam's 1st Pytest Project.iml" />
     </modules>
   </component>

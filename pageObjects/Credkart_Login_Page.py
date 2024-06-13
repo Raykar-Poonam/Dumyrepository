@@ -8,6 +8,9 @@ class Login_Class:
     Text_Password_XPATH = (By.XPATH, "//input[@id='password']")
     Click_Login_Button_XPATH = (By.XPATH, "//button[@type='submit']")
     Verify_Login_XPATH = (By.XPATH, "//h2[normalize-space()='CredKart']")
+    Click_Menu_XPATH = (By.XPATH, "//a[@role='button']")
+    Click_Logout_XPATH = (By.XPATH, "//a[normalize-space()='Logout']")
+
     def __init__(self, driver):
         self.driver = driver
     def Login_Link(self):
@@ -27,7 +30,6 @@ class Login_Class:
             return "Pass"
         except:
             return "Fail"
-
 
     def Click_Menu_Button(self):
         self.driver.find_element(*Login_Class.Click_Menu_XPATH).click()
