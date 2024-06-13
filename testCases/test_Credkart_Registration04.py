@@ -1,7 +1,7 @@
 import pytest
 from pageObjects.Credkart_Registration_Page import Registration_Class
 from pageObjects.Credkart_Login_Page import Login_Class
-from faker import Faker
+from Faker import Faker
 from utilities.Logger import Logging_Class
 
 class Test_Registration():
