@@ -1,2 +1,0 @@
-[32mINFO    [0m Test_Registration:test_Credkart_Registration04.py:12 Usernamejessica45
-[32mINFO    [0m Test_Registration:test_Credkart_Registration04.py:14 Emailelizabeth11@jackson.com
